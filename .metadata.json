@@ -1,5 +1,8 @@
 [
   {
     "package": "biscuiteer"
+  },
+  {
+    "package": "spiky"
   }
 ]
